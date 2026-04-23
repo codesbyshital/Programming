@@ -1,2 +1,10 @@
-c: programming basics:
-This code accepts 2 numbers from user & do addition of these numbers.
+Hi, I'm Shital
+
+C,C++,Java Developer with 2 years experience. Here I am uplaoding my programming practice & project codes.
+
+Skills:
+C,C++,Java,Python
+SQL
+Automation
+Data Analysis
+
