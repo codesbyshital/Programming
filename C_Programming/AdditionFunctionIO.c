@@ -1,0 +1,23 @@
+#include<stdio.h>
+
+int Addition(int no1, int no2)
+{
+    int Ans = 0;
+    Ans = no1 + no2;
+    return Ans;
+}
+
+int main()
+{
+    int ret = 0, a = 0, b = 0;
+    printf("Enter First Number \n");
+    scanf("%d",&a);
+    printf("Enter Second Number \n");
+    scanf("%d",&b);
+    
+    ret = Addition(a,b);
+
+    printf("Addition is : %d\n", ret);
+              
+    return 0;
+}
