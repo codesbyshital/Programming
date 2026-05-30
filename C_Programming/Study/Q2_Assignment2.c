@@ -1,0 +1,53 @@
+#include <stdio.h>
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Function Name :  Display
+// Output:          5 times *
+// Description:     Assignment_2: Q.2: Accept one number from user and print that number of * on screen.
+// Date:            22/05/2026
+// Author:          Shital Ajit Nikam   
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+void Display(int iNo)
+{
+    int iCnt = 0;
+
+    //Updater used
+    if(iNo < 0)
+    {
+        iNo = -iNo;
+    }
+
+    while(iNo > 0)
+    {
+        printf("*");
+        iNo--;
+    }
+    
+}
+
+int main()
+{
+    int iValue = 0;
+        
+    printf("Enter number\n");
+    scanf("%d",&iValue);
+
+    Display(iValue);
+
+    return 0;
+}
+
+/////////////////////////////////////////////////////////////////////////////////////
+//Time Complexity : O(N)
+//where N >=0
+/////////////////////////////////////////////////////////////////////////////////////
+// Input : 5
+// Output : *****
+// Input : -5
+// Output : *****
+// 
+/////////////////////////////////////////////////////////////////////////////////////
