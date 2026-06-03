@@ -1,0 +1,48 @@
+import java.util.Scanner;
+
+class DigitX
+{
+    public int SumDigits(int iNo)
+    {
+    
+        int iSum = 0;
+
+        while(iNo != 0)
+        {
+            iDigit = iNo % 10;
+                       
+            iSum = iSum + (iNo % 10);    // without iDigit
+             
+            iNo = iNo / 10;
+                        
+        }
+        return iSum;
+
+    }
+}
+
+class program91
+{
+    public static void main(String A[])
+    {
+        Scanner sobj = new Scanner(System.in);
+        DigitX dobj = new DigitX();
+        int iRet = 0;
+
+        int iValue = 0;
+        System.out.println("Enter Number");
+        
+        iValue = sobj.nextInt();
+
+        iRet = dobj.Digits(iValue);
+
+        System.out.println("\n Sum of digits : "+iRet);
+        
+    }
+}
+
+
+// Sum digit in the number
+
+// Input : 7856
+//output : Sum of Digits : 2

@@ -1,0 +1,63 @@
+import java.util.*;
+
+class NumberX
+{
+    public boolean CheckPrime(int iNo)
+    {
+        int iCnt = 0 ;
+                
+        for(iCnt = 2; iCnt <= (iNo / 2) ; iCnt++)
+        {
+            if((iNo % iCnt) == 0)
+            {
+                break;
+            }
+                                              
+        }
+
+        if(iCnt >= (iNo/2) + 1)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+       
+    }
+}
+
+
+
+class program65
+{
+    public static void main(String A[])
+    {
+        int iValue = 0;
+        boolean bRet = false;
+         
+                
+        Scanner sobj = new Scanner(System.in);
+
+        System.out.println("Enter your Number");
+        iValue = sobj.nextInt();
+
+        NumberX nobj = new NumberX();
+
+        bRet = nobj.CheckPrime(iValue);   
+        
+        if(bRet == true)
+        {
+            System.out.println("It is Prime");
+        }
+        else
+        {
+            System.out.println("It is not Prime");
+        }
+          
+    }
+    
+}
+
+//Time Complexity : O(N/2)
+//where N >=0
