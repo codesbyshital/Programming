@@ -1,0 +1,80 @@
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 19:34:18.535387 : 
+ C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_20260722_193418.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 19:34:24.546276 : 
+ C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_20260722_193424.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 19:34:30.556168 : 
+ C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_20260722_193430.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 19:34:36.566489 : 
+ C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_20260722_193436.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:26:41.398014 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_26_41_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:26:47.409467 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_26_47_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:26:53.419735 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_26_53_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:26:59.429206 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_26_59_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:27:05.439522 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_27_05_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:27:11.452429 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_27_11_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:27:17.464579 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_27_17_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:27:23.474834 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_27_23_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:27:29.484588 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_27_29_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:27:35.493147 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_27_35_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:27:41.502436 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_27_41_2026.txt
+-------------------------------------------------------------------
+ Marvellous Automation Backup Log  
+-------------------------------------------------------------------
+2026-07-22 22:27:47.514091 : 
+C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Source\Marvellous.txt --> C:\Users\ADMIN\Desktop\Python\Assignment\Assignment30\Backup\Marvellous_Wed_Jul_22_22_27_47_2026.txt

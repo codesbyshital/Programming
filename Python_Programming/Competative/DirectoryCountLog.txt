@@ -1,0 +1,42 @@
+-------------------------------------------------------------------
+ Marvellous Automation Directory Count Log  
+-------------------------------------------------------------------
+Directory Path : C:\Users\ADMIN\Desktop\Python\Assignment\Assignment31 
+Number of Files : 9 
+Date and Time of Scanning :Thu Jul 23 00:47:08 2026 
+-------------------------------------------------------------------
+ Marvellous Automation Directory Count Log  
+-------------------------------------------------------------------
+Directory Path : C:\Users\ADMIN\Desktop\Python\Assignment\Assignment31 
+Number of Files : 10 
+Date and Time of Scanning :Thu Jul 23 00:47:14 2026 
+-------------------------------------------------------------------
+ Marvellous Automation Directory Count Log  
+-------------------------------------------------------------------
+Directory Path : C:\Users\ADMIN\Desktop\Python\Assignment\Assignment31 
+Number of Files : 10 
+Date and Time of Scanning :Thu Jul 23 00:47:20 2026 
+-------------------------------------------------------------------
+ Marvellous Automation Directory Count Log  
+-------------------------------------------------------------------
+Directory Path : C:\Users\ADMIN\Desktop\Python\Assignment\Assignment31 
+Number of Files : 10 
+Date and Time of Scanning :Thu Jul 23 00:47:26 2026 
+-------------------------------------------------------------------
+ Marvellous Automation Directory Count Log  
+-------------------------------------------------------------------
+Directory Path : C:\Users\ADMIN\Desktop\Python\Assignment\Assignment31 
+Number of Files : 10 
+Date and Time of Scanning :Thu Jul 23 00:47:32 2026 
+-------------------------------------------------------------------
+ Marvellous Automation Directory Count Log  
+-------------------------------------------------------------------
+Directory Path : C:\Users\ADMIN\Desktop\Python\Assignment\Assignment31 
+Number of Files : 10 
+Date and Time of Scanning :Thu Jul 23 00:48:38 2026 
+-------------------------------------------------------------------
+ Marvellous Automation Directory Count Log  
+-------------------------------------------------------------------
+Directory Path : C:\Users\ADMIN\Desktop\Python\Assignment\Assignment31 
+Number of Files : 10 
+Date and Time of Scanning :Thu Jul 23 00:48:44 2026 
