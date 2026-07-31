@@ -1,0 +1,217 @@
+Automated Disk Sanitizer (Duplicate File Removal System)
+Project Overview
+Automated Disk Sanitizer is a Python automation project that scans a specified directory, identifies duplicate files using MD5 checksum hashing, safely removes duplicate copies, and generates a detailed log report. The project demonstrates concepts of Python File I/O, Automation, Scheduling, Directory Traversal, Hashing, Command Line Arguments, and System Utilities.
+________________________________________
+Project Information
+•	Project Title: Automated Disk Sanitiser (Duplicate File Removal System)
+•	Language: Python 3
+•	Author: Shital Ajit Nikam
+•	Platform: Windows / Linux
+•	Category: Python Automation & File Handling
+________________________________________
+Features
+•	File system traversal using os.walk()
+•	Directory scanning
+•	Binary file handling
+•	MD5 checksum generation
+•	Duplicate file detection
+•	Automatic duplicate file deletion
+•	Disk space optimization
+•	Log file generation
+•	Periodic execution using Scheduler
+•	Command-line argument support
+•	Production-style automation utility
+________________________________________
+Technologies Used
+•	Python 3.x
+•	File I/O
+•	OS Module
+•	Hashlib (MD5)
+•	Schedule Module
+•	Time Module
+•	Command Line Interface (CLI)
+________________________________________
+Modules Used
+Module	Purpose
+os	Directory traversal and file operations
+sys	Command-line arguments
+hashlib	MD5 checksum generation
+schedule	Periodic task scheduling
+time	Date, time, and execution timing
+________________________________________
+Project Workflow
+1.	Accept directory path from the command line.
+2.	Validate the directory.
+3.	Traverse all files using os.walk().
+4.	Generate an MD5 checksum for each file.
+5.	Store checksum and file path in a dictionary.
+6.	Identify duplicate files.
+7.	Delete duplicate copies while keeping one original.
+8.	Calculate disk space saved.
+9.	Generate a detailed log file.
+10.	Repeat the process periodically using the Scheduler.
+________________________________________
+Project Architecture
+Command Line Input
+        │
+        ▼
+Validate Directory
+        │
+        ▼
+Directory Traversal (os.walk)
+        │
+        ▼
+Generate MD5 Checksum
+        │
+        ▼
+Dictionary of Checksums
+        │
+        ▼
+Identify Duplicate Files
+        │
+        ▼
+Delete Duplicate Files
+        │
+        ▼
+Generate Log Report
+        │
+        ▼
+Scheduler (Periodic Execution)
+________________________________________
+Functions Used
+CalculateChecksum(FileName)
+Calculates the MD5 checksum of a file by reading it in binary mode.
+Returns
+•	MD5 hash value (Hexadecimal String)
+________________________________________
+FindDuplicate(DirectoryName)
+Scans the directory recursively and identifies duplicate files based on checksum values.
+Returns
+•	Dictionary containing checksum as key
+•	List of duplicate file paths as value
+•	Total files scanned
+________________________________________
+DeleteDuplicate(DirectoryName)
+Deletes duplicate files, calculates disk space saved, execution time, and generates the log file with below details:
+•	Date                   : 28/07/2026
+•	Time                   : 23:13:52
+•	Total Files Scanned    : 3
+•	Duplicate Files Found  : 3
+•	Total Files Deleted    : 0
+•	Disk Space Saved       : 0.00 MB
+•	Execution Time         : 0.0 Seconds
+________________________________________
+main()
+•	Handles command-line arguments
+•	Displays Help/User Guide
+•	Starts the Scheduler
+•	Calls the Duplicate Removal Process
+________________________________________
+Command Line Usage
+Help
+python AutomatedDiskSanitiser.py --h
+Displays project information like:
+This Automation script is used to perform
+1 : Directory Scanning using os.walk()
+2 : File handeling in Binary mode.
+3 : Checksum Generation using MD5 hashing.            
+4 : Duplicate File deletion Logic.
+5 : It gets auto schedules periodically
+6 : Disctionary based data organization.
+7 : Safe file deletion.   
+8 : Disk space optimization.      
+9 : Writing production style system utilities.  
+________________________________________
+Usage
+python AutomatedDiskSanitiser.py --u
+Displays command usage instructions like:
+Use the Automation script as :
+f"python {sys.argv[0]} Time_Interval Folder_Name
+Time_Interval : Time in Minutes for periodic execution
+Folder_Name : Name of directory for scanning
+________________________________________
+Execute Project
+python AutomatedDiskSanitiser.py 5 Test
+Where:
+•	5 = Time interval (minutes or seconds based on project configuration)
+•	Test = Directory to scan which is available at current directory 
+•	path : C:\Users\ADMIN\Desktop\Python\Automations\Test
+________________________________________
+Sample Output
+------------------------------------------------------
+Automated Disk Sanitiser System
+------------------------------------------------------
+
+Scheduler Started Successfully
+
+Scanning Directory...
+
+Duplicate Files Deleted Successfully.
+
+Total Files Scanned : 245
+
+Duplicate Files Found : 18
+
+Total Files Deleted : 18
+
+Disk Space Saved : 42.65 MB
+
+Execution Time : 2.31 Seconds
+________________________________________
+Log File
+The project automatically creates a Logs directory (if it does not already exist).
+Example log file:
+Logs/
+
+    Deletion_2026-07-28_23-13-52.log
+The log contains:
+•	Date
+•	Time
+•	Directory scanned
+•	Total files scanned
+•	Duplicate files found
+•	Total files deleted
+•	Disk space saved
+•	Execution time
+•	Deleted file list
+________________________________________
+Advantages
+•	Saves disk space
+•	Removes duplicate files automatically
+•	Fast duplicate detection using MD5 hashing
+•	Lightweight and easy to use
+•	Scheduled execution
+•	Useful for system maintenance
+________________________________________
+Future Enhancements
+•	Email log report after execution
+•	SHA-256 checksum support
+•	Ignore system and hidden files
+•	Move duplicates to Recycle Bin instead of permanent deletion
+•	Multi-threaded directory scanning
+•	Progress bar for large folders
+•	Configuration file support
+•	Automatic backup before deletion
+•	Detailed execution statistics
+________________________________________
+Learning Outcomes
+This project demonstrates practical knowledge of:
+•	Python File Handling
+•	Binary File I/O
+•	Directory Traversal
+•	MD5 Hashing
+•	Dictionary Data Structures
+•	Command Line Programming
+•	Automation Scripts
+•	Task Scheduling
+•	Exception Handling
+•	Production-style Logging
+•	System Utility Development
+________________________________________
+License
+This project is developed for learning & Practice purposes.
+________________________________________
+Author
+Shital Ajit Nikam
+Python Developer | C, C++, Java Developer | Automation Enthusiast | Data Analyst
+
