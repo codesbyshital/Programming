@@ -1,0 +1,429 @@
+----------------------------------------------------------------------
+Log file created at :2026-07-26_20-28-15
+----------------------------------------------------------------------
+
+-----------------------System Report-----------------------------
+Number of Active CPU Cores : 4
+CPU Usage : 2.9 %
+----------------------------------------------------------------------
+
+RAM Usage : 88.8 %
+Total RAM available : 4157890560
+----------------------------------------------------------------------
+
+Network Usage Report
+Sent : 7.40 MB
+Receive : 146.70 MB
+----------------------------------------------------------------------
+
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System Idle Process', 'pid': 0, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.00019702298273093557}
+----------------------------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System', 'pid': 4, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0020687413186748233}
+----------------------------------------------------------------------
+{'username': None, 'name': 'Registry', 'pid': 100, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3553309493552423}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 408, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3892189023849632}
+----------------------------------------------------------------------
+{'username': None, 'name': 'fontdrvhost.exe', 'pid': 448, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.012412447912048942}
+----------------------------------------------------------------------
+{'username': None, 'name': 'smss.exe', 'pid': 484, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0004925574568273389}
+----------------------------------------------------------------------
+{'username': None, 'name': 'fontdrvhost.exe', 'pid': 528, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.05959945227610801}
+----------------------------------------------------------------------
+{'username': None, 'name': 'csrss.exe', 'pid': 728, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.04639891243313533}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 732, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.4775837101397878}
+----------------------------------------------------------------------
+{'username': None, 'name': 'wininit.exe', 'pid': 832, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.01684546502349499}
+----------------------------------------------------------------------
+{'username': None, 'name': 'csrss.exe', 'pid': 840, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0526051363891598}
+----------------------------------------------------------------------
+{'username': None, 'name': 'winlogon.exe', 'pid': 932, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.044625705588556906}
+----------------------------------------------------------------------
+{'username': None, 'name': 'services.exe', 'pid': 976, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.11121947375161312}
+----------------------------------------------------------------------
+{'username': None, 'name': 'lsass.exe', 'pid': 1000, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.23839780910443203}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1060, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.12382894464639302}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1116, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.34301701293455883}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1168, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.06954911290402026}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1212, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.02758321758233098}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1240, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.07792258967008502}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1272, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.10018618671868074}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1288, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0773315207218922}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1372, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.052506624897794334}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1432, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.12668577789599156}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1448, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.026204056703214428}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1460, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.24450552156909103}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1540, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.18214774753474994}
+----------------------------------------------------------------------
+{'username': None, 'name': 'dwm.exe', 'pid': 1592, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 1.1547517017860134}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1612, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.025612987755021622}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1624, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0379269241757051}
+----------------------------------------------------------------------
+{'username': None, 'name': 'atiesrxx.exe', 'pid': 1792, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.015860350109840313}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1800, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.08895587670301741}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'TextInputHost.exe', 'pid': 1828, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.48812443971589287}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1888, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.17406980524278157}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 1928, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.08580350897932243}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2032, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.10442218084739585}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2096, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0324102806592389}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'ApplicationFrameHost.exe', 'pid': 2120, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0742776644895627}
+----------------------------------------------------------------------
+{'username': None, 'name': 'MoUsoCoreWorker.exe', 'pid': 2124, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.2619420555407788}
+----------------------------------------------------------------------
+{'username': None, 'name': 'MemCompression', 'pid': 2144, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.873107347972141}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2172, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.03635074031385761}
+----------------------------------------------------------------------
+{'username': None, 'name': 'igfxCUIService.exe', 'pid': 2312, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.028666843987351122}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2380, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.04088226891666913}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2388, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.050634906561850435}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2484, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.18697481061165785}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2568, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.020293367221286364}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2660, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.17111446050181753}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2684, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.01733802248032233}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2740, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.07417915299819723}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2748, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.06019052122430081}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2768, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.06560865324940154}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 2840, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.14697914511727792}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2848, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.04758105032952094}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'taskhostw.exe', 'pid': 2912, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.16658293189900603}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2928, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.30745436455162495}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 2984, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.08176453783333826}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'dllhost.exe', 'pid': 3004, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.07388361852410084}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'ShellExperienceHost.exe', 'pid': 3068, 'status': 'stopped', 'cpu_percent': 0.0, 'memory_percent': 0.03388795302972092}
+----------------------------------------------------------------------
+{'username': None, 'name': 'spoolsv.exe', 'pid': 3116, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.029553447409640332}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3140, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.047876584803617346}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3156, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.1274738698269153}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3240, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.05280215937189073}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3432, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.11772123218173401}
+----------------------------------------------------------------------
+{'username': None, 'name': 'armsvc.exe', 'pid': 3516, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.02216508555723025}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3532, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.038419481632532435}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3544, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.4187723497946035}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3552, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3895144368590596}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3580, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.06679079114578715}
+----------------------------------------------------------------------
+{'username': None, 'name': 'mongod.exe', 'pid': 3588, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.7651387534355882}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3612, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.026598102668676304}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3636, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0712238082572332}
+----------------------------------------------------------------------
+{'username': None, 'name': 'SynTPEnhService.exe', 'pid': 3644, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.014481189230723763}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'updater.exe', 'pid': 3652, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.27317236555644214}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 3656, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3130695195594566}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3684, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.017633556954418733}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 3728, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.16687846637310244}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3736, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.21613421205583633}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 3764, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.19850065510141757}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 4144, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.03802543566707056}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'svchost.exe', 'pid': 4320, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.01861867186807341}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 4484, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.02975047039237127}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'svchost.exe', 'pid': 4600, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.2835160721498163}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'sihost.exe', 'pid': 4676, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3447902197791372}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'nbcode64.exe', 'pid': 4776, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.11722867472490667}
+----------------------------------------------------------------------
+{'username': None, 'name': 'AggregatorHost.exe', 'pid': 5132, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.08008984248012531}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'conhost.exe', 'pid': 5208, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.01911122932490075}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'svchost.exe', 'pid': 5216, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3369093004698998}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 5272, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.28213691127069973}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 5292, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.2177103959176838}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'RuntimeBroker.exe', 'pid': 5340, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.392962339056851}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'taskhostw.exe', 'pid': 5356, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.22037020618455144}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'SynTPEnh.exe', 'pid': 5368, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.1843150003447902}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'CodeSetup-stable-1b6a188127eeaf9194f945eb6eb89a657e93c54c.tmp', 'pid': 5440, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.06186521657751377}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 5496, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.13496074317069084}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 5568, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.05211257893233246}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'RuntimeBroker.exe', 'pid': 5576, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.2790830550383702}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'OneDrive.Sync.Service.exe', 'pid': 5676, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.18076858665563336}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 5840, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.13377860527430524}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'explorer.exe', 'pid': 5948, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 4.228408743879974}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'OneDrive.exe', 'pid': 5968, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.2066771088847514}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'svchost.exe', 'pid': 6028, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.255243274127927}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 6060, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.01911122932490075}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'msedgewebview2.exe', 'pid': 6076, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.029257912935543928}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'SynTPHelper.exe', 'pid': 6100, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.016352907566667654}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 6112, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.15052555880643476}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'CrossDeviceService.exe', 'pid': 6268, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.2553417856192925}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'igfxEM.exe', 'pid': 6404, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.07890770458373969}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'LocationNotificationWindows.exe', 'pid': 6456, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'cmd.exe', 'pid': 6504, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.05329471682871807}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'SnippingTool.exe', 'pid': 6516, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.1455014727467959}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'igfxHK.exe', 'pid': 6564, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.028765355478716594}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'igfxTray.exe', 'pid': 6624, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.08383327915201308}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 6764, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.24854449271507523}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'svchost.exe', 'pid': 6900, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.03388795302972092}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'UserOOBEBroker.exe', 'pid': 6948, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.024923407315463348}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'SearchHost.exe', 'pid': 7156, 'status': 'stopped', 'cpu_percent': 0.0, 'memory_percent': 0.10747603707972535}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'StartMenuExperienceHost.exe', 'pid': 7164, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.34016017968496026}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'pet.exe', 'pid': 7444, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.012412447912048942}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 7612, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0742776644895627}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'cpptools.exe', 'pid': 7668, 'status': 'stopped', 'cpu_percent': 0.0, 'memory_percent': 0.0011821378963856135}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'RuntimeBroker.exe', 'pid': 7688, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.05073341805321591}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 7732, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.583976120814493}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'dllhost.exe', 'pid': 7784, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.06541163026667061}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'ctfmon.exe', 'pid': 8144, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3182906286018264}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'powershell.exe', 'pid': 8180, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.09792042241727499}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 8356, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.06708632561988356}
+----------------------------------------------------------------------
+{'username': None, 'name': 'SearchIndexer.exe', 'pid': 8448, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.37907221877432}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'python.exe', 'pid': 8588, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.5269379673138871}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'msedgewebview2.exe', 'pid': 8604, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 8844, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.04324654470944036}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'svchost.exe', 'pid': 9100, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.15623922530563192}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'conhost.exe', 'pid': 9200, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.018914206342169816}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 9224, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.050043837613657625}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 9256, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.017633556954418733}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 9276, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.032508792150604364}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'FileCoAuth.exe', 'pid': 9436, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.04659593541586626}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 9588, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 1.3369979608121287}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'AdobeCollabSync.exe', 'pid': 10080, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.04639891243313533}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'AdobeCollabSync.exe', 'pid': 10132, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.38626355764399917}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 10244, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.1662873974249096}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'svchost.exe', 'pid': 10336, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.020194855729920896}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 10404, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 1.2148437115189485}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 10448, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 8.60951029937642}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 10580, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.10688496813153256}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 10744, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.15032853582370384}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'WidgetService.exe', 'pid': 10944, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.13042921456787934}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 11356, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.46192038301267846}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 11504, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.7176562145974328}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Photos.exe', 'pid': 11772, 'status': 'stopped', 'cpu_percent': 0.0, 'memory_percent': 0.002561298775502162}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'updater.exe', 'pid': 11792, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.28331904916708534}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 12020, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.05309769384598714}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'dllhost.exe', 'pid': 12036, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.030144516357833138}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'svchost.exe', 'pid': 12052, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.10432366935603037}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 12224, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.2701185093241127}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Widgets.exe', 'pid': 12292, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.38567248869580634}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 12448, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 1.4873264966358326}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 12608, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.050142349105023104}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'msedgewebview2.exe', 'pid': 12868, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.023741269419077737}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 13300, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.14077292116125345}
+----------------------------------------------------------------------
+{'username': None, 'name': 'NisSrv.exe', 'pid': 13396, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.06235777403434111}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'RuntimeBroker.exe', 'pid': 13552, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.14688063362591247}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 13688, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3399631567022293}
+----------------------------------------------------------------------
+{'username': None, 'name': 'MpDefenderCoreService.exe', 'pid': 13776, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.19790958615322476}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 14272, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.16412014461486932}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'SnippingTool.exe', 'pid': 14300, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.15269281161647508}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'updater.exe', 'pid': 14712, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3432140359172897}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'OpenConsole.exe', 'pid': 14748, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0263025681945799}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'CodeSetup-stable-1b6a188127eeaf9194f945eb6eb89a657e93c54c.exe', 'pid': 15224, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.02846982100462019}
+----------------------------------------------------------------------
+{'username': None, 'name': 'conhost.exe', 'pid': 15524, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 9.851149136546778e-05}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 15780, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 2.38703194727665}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'WindowsTerminal.exe', 'pid': 15952, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.7928204825092847}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 15988, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.35060239776969987}
+----------------------------------------------------------------------
+{'username': None, 'name': 'MsMpEng.exe', 'pid': 16072, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 2.989429716976485}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'SystemSettingsBroker.exe', 'pid': 16252, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.1571258287279211}
+----------------------------------------------------------------------
+{'username': None, 'name': 'WmiPrvSE.exe', 'pid': 16420, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.2604643831702968}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'cpptools.exe', 'pid': 16728, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.14136399010944628}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 17464, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.16579483996808228}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 18400, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.5370846509245303}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 18704, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.12865600772330094}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'OpenConsole.exe', 'pid': 19148, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.05201406744096699}
+----------------------------------------------------------------------
+{'username': None, 'name': 'SearchProtocolHost.exe', 'pid': 19528, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.34193338652953864}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'conhost.exe', 'pid': 19780, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.019505275290362622}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'LockApp.exe', 'pid': 19788, 'status': 'stopped', 'cpu_percent': 0.0, 'memory_percent': 0.002364275792771227}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 19924, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.050634906561850435}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'msedgewebview2.exe', 'pid': 19936, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.03231176916787343}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'dllhost.exe', 'pid': 20580, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0379269241757051}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'msedgewebview2.exe', 'pid': 20916, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.11240161164799874}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 21340, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.09112312951305769}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'powershell.exe', 'pid': 21432, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.09013801459940303}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'chrome.exe', 'pid': 21700, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 5.757110066889302}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'OpenConsole.exe', 'pid': 21728, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.026105545211848963}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'msedgewebview2.exe', 'pid': 21896, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.0009851149136546778}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 21968, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 1.30567130655791}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'Code.exe', 'pid': 22372, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 24.750224113642858}
+----------------------------------------------------------------------
+{'username': None, 'name': 'svchost.exe', 'pid': 22432, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3957206608150841}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'updater.exe', 'pid': 22924, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.3591728975184955}
+----------------------------------------------------------------------
+{'username': None, 'name': 'OSE.EXE', 'pid': 23172, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.22273448197732268}
+----------------------------------------------------------------------
+{'username': 'DESKTOP-51BDU4F\\ADMIN', 'name': 'RuntimeBroker.exe', 'pid': 23956, 'status': 'running', 'cpu_percent': 0.0, 'memory_percent': 0.16274098373575277}
+----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+------------------- End of Log File-------------------------------
+----------------------------------------------------------------------
