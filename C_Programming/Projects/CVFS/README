@@ -1,0 +1,91 @@
+Customized Virtual File System (CVFS):
+
+Project Overview:
+This Project is custom implementation of a Virtual File System (VFS) that simulates the core functionality of the Linux file System. It is built entirely in C, with its own custom shell to interact with the virtual environment. The Project provides a practical understanding of System Calls, File Handling, memory management, and OS internals.
+
+Technology Used:
+Programming Language:	C
+Operating System:	Linux 
+Compiler: GCC
+Editor:	Visual Studio Code 
+Terminal:	Linux Shell
+Libraries Used :	stdio.h, stdlib.h, string.h, unistd.h
+
+Key Features:
+•	Custom Shell Interface
+  o	Provides Linux-like commands for file operations (create, open, read, write, unlink, ls, display, etc.)
+•	System Call Simulation
+  o	Implements core Linux file system calls (open, read, write, unlink, close, ls, etc.) using C.
+•	File System Data Structures
+  o	Incore Inode Table(IIT)
+  o	File Table(FT)
+  o	UAREA(User Area)
+  o	User File Descriptor Table(UFDT)
+•	Memory Management.
+•	Platform Independent
+  o	Allows system-level file handling functionalities of Linux to be used on any operating system platform.
+•	Database-like Functionality
+  o	Provides a customized database management layer with structured file handling.
+
+User Interface Used:
+The project uses Command Line Interface (CLI)
+The user interacts through Linux Terminal.
+
+Platform Required:
+Linux 
+Windows with WSL (Optional) 
+Any Linux Distribution
+
+Hardware Requirements:
+Minimum Intel i3 Processor 
+4 GB RAM 100 MB Free Disk Space 
+Recommended Intel i5/i7 8 GB RAM 
+Linux 
+
+Learning Outcomes:
+•	Deep Understanding of Linux File System internals.
+•	Practical knowledge of data structures used in OS -
+  o	Inode Management
+  o	Super Block
+  o	File Tables
+  o	User File Descriptor Table (UFDT)
+  o	UAREA
+
+•	Strong grasp of System programming in C.
+•	Hands-on with shell design & command interpreter.
+•	Application of low-level logic building for OS-like environments.
+--------------------------------------------------------------------------------------------------------
+
+Example Usage:
+How to Run Commands on Shell :
+Marvellous CVFS : > creat Demo.txt 3
+Marvellous CVFS : > creat Hello.txt 3
+
+Marvellous CVFS : >  write 3
+Enter the Data that you want to write into the file...
+hello world
+11 bytes gets successfully written into file
+Marvellous CVFS : > read Demo.txt
+hello world
+Marvellous CVFS : > ls	
+----------------------------------------------------------------------
+---------- Marvellous CVFS Files Information -------------
+----------------------------------------------------------------------
+Demo.txt
+Hello.txt
+Marvellous CVFS : > open Demo.txt 3
+File opened successfully
+File Descriptor : 5
+Marvellous CVFS : > close 3
+File closed successfully
+Marvellous CVFS : > display Demo.txt 
+----------------------------------------------------------------------
+File Name : b.txt
+----------------------------------------------------------------------
+hello world
+File displayed successfully...
+
+Marvellous CVFS : > exit
+Marvellous CVFS : > read
+
+
