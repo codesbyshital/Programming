@@ -71,7 +71,9 @@ This repository contains my practice programs and assignments for:
 - Java
 - C
 - C++
+- Python
 - MySQL
+- MongoDB- 
 - JDBC
 - Visual Studio Code
 - Spring Boot
