@@ -50,6 +50,9 @@
 #define REGULARFILE 1       //used this macro for type of file
 #define SPECIALFILE 2
 
+#define BACKUP_PATH "C:\\Users\\ADMIN\\Desktop\\LB\\CVFS\\Backup"
+
+
 //////////////////////////////////////////////////////
 //
 //  User Defined Macros for error handling
@@ -859,12 +862,12 @@ int read_file(
             return ERR_INSUFFICIENT_DATA;
         }
 
+        
     // Read actual data
-
     if((uareaobj.UFDT[fd]->ptrinode->ActualFileSize - uareaobj.UFDT[fd]->ReadOffset) < size)
     {        
         size = uareaobj.UFDT[fd]->ptrinode->ActualFileSize - uareaobj.UFDT[fd]->ReadOffset;    
-    }
+    }  
 
     strncpy(data,uareaobj.UFDT[fd]->ptrinode->Buffer + uareaobj.UFDT[fd]->ReadOffset, size);
 
@@ -1041,6 +1044,43 @@ int Display_File(char Name[])
 
 }
 
+/////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  Function Name :     Backup_File()
+//  Description :       It is used to Backup the files created Virtually during execution into HDD
+//                      (RAM to HDD). This will automatically gets called before exit.
+//  Input:                                   
+//  Output:             Files created during execution         
+//  Author :            Shital Ajit Nikam
+//  Date :              4/08/2026
+//
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+
+void Backup_File()
+{   
+
+ PINODE temp = head;
+ char FullPath[260];
+    int fd = 0; 
+
+    while(temp != NULL)
+    {
+        if(temp->FileType != 0)
+        {
+            sprintf(FullPath,"%s\\%s",BACKUP_PATH, temp->FileName);            //copy the fullpath with files name
+            
+            fd = creat(FullPath,0777);           // creating that files on specified path in HDD
+           
+            write(fd, temp->Buffer,temp->ActualFileSize);  //writing the file contents 
+        }        
+
+        temp = temp->next;
+    }
+
+}
+
+
 //////////////////////////////////////////////////////
 //
 //  Entry Point function of the CVFS project
@@ -1091,6 +1131,7 @@ int main()
             //Marvellous CVFS : > exit            
             if(strcmp(Command[0],"exit") == 0)
             {
+                Backup_File();
                 printf("Thank you for using Marvellous CVFS\n");
                 printf("Deallocating of all resources of Marvellous CVFS\n");
 
