@@ -26,6 +26,8 @@ Key Features:
   o	Allows system-level file handling functionalities of Linux to be used on any operating system platform.
 •	Database-like Functionality
   o	Provides a customized database management layer with structured file handling.
+•	BAck-up Functionality
+  o	It Backup the virtual files cretaed during execution into HDD (i.e in the Backup folder )
 
 User Interface Used:
 The project uses Command Line Interface (CLI)
