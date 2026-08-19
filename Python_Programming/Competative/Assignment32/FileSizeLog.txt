@@ -1,0 +1,55 @@
+----------------------------------------------------------------------
+Text file copy Operation : 
+Date & Time : 2026-08-19 17:17:19.459373
+----------------------------------------------------------------------
+Copied : src\FileTest.txt --> dest\FileTest.txt
+Copied : src\File_Fri_Jul_24_10_40_51_2026.txt --> dest\File_Fri_Jul_24_10_40_51_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Total files copied : 4
+--------------------------------------------------------------------------------------------------------------------------------------------
+Text file copy Operation : 
+Date & Time : 2026-08-19 17:17:29.473188
+----------------------------------------------------------------------
+Copied : src\FileTest.txt --> dest\FileTest.txt
+Copied : src\File_Fri_Jul_24_10_40_51_2026.txt --> dest\File_Fri_Jul_24_10_40_51_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Total files copied : 4
+--------------------------------------------------------------------------------------------------------------------------------------------
+Text file copy Operation : 
+Date & Time : 2026-08-19 17:17:39.489091
+----------------------------------------------------------------------
+Copied : src\FileTest.txt --> dest\FileTest.txt
+Copied : src\File_Fri_Jul_24_10_40_51_2026.txt --> dest\File_Fri_Jul_24_10_40_51_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Total files copied : 4
+--------------------------------------------------------------------------------------------------------------------------------------------
+Text file copy Operation : 
+Date & Time : 2026-08-19 17:17:49.503875
+----------------------------------------------------------------------
+Copied : src\FileTest.txt --> dest\FileTest.txt
+Copied : src\File_Fri_Jul_24_10_40_51_2026.txt --> dest\File_Fri_Jul_24_10_40_51_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Total files copied : 4
+--------------------------------------------------------------------------------------------------------------------------------------------
+Text file copy Operation : 
+Date & Time : 2026-08-19 17:17:59.516916
+----------------------------------------------------------------------
+Copied : src\FileTest.txt --> dest\FileTest.txt
+Copied : src\File_Fri_Jul_24_10_40_51_2026.txt --> dest\File_Fri_Jul_24_10_40_51_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Total files copied : 4
+--------------------------------------------------------------------------------------------------------------------------------------------
+Text file copy Operation : 
+Date & Time : 2026-08-19 17:18:09.530729
+----------------------------------------------------------------------
+Copied : src\FileTest.txt --> dest\FileTest.txt
+Copied : src\File_Fri_Jul_24_10_40_51_2026.txt --> dest\File_Fri_Jul_24_10_40_51_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Copied : src\File_Fri_Jul_24_10_40_53_2026.txt --> dest\File_Fri_Jul_24_10_40_53_2026.txt
+Total files copied : 4
+----------------------------------------------------------------------
