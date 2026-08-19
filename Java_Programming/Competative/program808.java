@@ -1,0 +1,39 @@
+/*
+    problems on Numbers & digits started:
+    accept number & find factorial
+
+    5! : 5*4*3*2*1
+
+    long primitive data type : long
+    inbuilt method for factorial is not available in java
+*/ 
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
+class program808
+{
+    public static void main(String A[]) throws Exception                // it generates exception
+    {
+        int iNo = 0;
+        long iFact = 0;
+
+        // input through bufferred stream IO
+        BufferedReader bobj = new BufferedReader(new InputStreamReader(System.in));
+
+        System.out.println("Enter the number:");
+        iNo = Integer.parseInt(bobj.readLine());       
+
+        iFact = 1;
+        
+        while(iNo != 0)
+        {
+            iFact = iFact * iNo;
+            iNo--;
+
+        }
+
+        System.out.println("Factorial is : "+iFact);        
+        
+    }
+}
