@@ -1,0 +1,1176 @@
+----------------------------------------------------------------------
+MARVELLOUS PROCESS INFORMATION REPORT
+----------------------------------------------------------------------
+
+Total Running Processes : 291
+Scan Date and Time      : 20-08-2026 22:58:58
+----------------------------------------------------------------------
+
+PID      : 0
+Name     : System Idle Process
+Username : NT AUTHORITY\SYSTEM
+----------------------------------------------------------------------
+PID      : 4
+Name     : System
+Username : NT AUTHORITY\SYSTEM
+----------------------------------------------------------------------
+PID      : 8
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 268
+Name     : OneDrive.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 272
+Name     : Registry
+Username : None
+----------------------------------------------------------------------
+PID      : 920
+Name     : smss.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1044
+Name     : dwm.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1116
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1448
+Name     : csrss.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1636
+Name     : wininit.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1644
+Name     : csrss.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1704
+Name     : winlogon.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1780
+Name     : services.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1788
+Name     : lsass.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1932
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1964
+Name     : fontdrvhost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 1968
+Name     : fontdrvhost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2084
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2100
+Name     : msedgewebview2.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 2168
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2176
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2180
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2192
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2256
+Name     : AggregatorHost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2356
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2376
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2404
+Name     : nvcontainer.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2432
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2472
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2480
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2492
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2508
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2704
+Name     : fdhost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2720
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2728
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2740
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2812
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2820
+Name     : sqlceip.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 2836
+Name     : msedgewebview2.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 3044
+Name     : NVDisplay.Container.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3388
+Name     : OmenCap.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3408
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 3428
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3492
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3520
+Name     : SynTPEnhService.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3608
+Name     : NVDisplay.Container.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3660
+Name     : conhost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3692
+Name     : amdfendrsr.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3700
+Name     : atiesrxx.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3712
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3896
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3948
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3980
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3988
+Name     : servicehost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 3996
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4012
+Name     : HPPrintScanDoctorService.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4016
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4080
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4148
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4352
+Name     : dasHost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4400
+Name     : WmiPrvSE.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4440
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4468
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 4564
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4664
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4700
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4708
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4716
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4768
+Name     : RtkAudUService64.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4844
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4852
+Name     : TouchpointAnalyticsClientService.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4860
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4868
+Name     : AppHelperCap.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4876
+Name     : NetworkCap.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4884
+Name     : DiagsCap.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 4892
+Name     : MemCompression
+Username : None
+----------------------------------------------------------------------
+PID      : 5140
+Name     : HPCommRecovery.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5180
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5224
+Name     : NisSrv.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5272
+Name     : powershell.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 5304
+Name     : nssm.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5340
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5380
+Name     : rlm.foundry.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5476
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5540
+Name     : USBHubSvc.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5572
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5620
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5676
+Name     : atieclxx.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5708
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 5720
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5756
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5784
+Name     : scheduler.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5832
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5840
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5844
+Name     : SECOMN64.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5856
+Name     : openvpnserv.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5904
+Name     : spoolsv.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 5956
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6012
+Name     : FortiSSLVPNdaemon.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6028
+Name     : FortiVPN.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6056
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 6060
+Name     : openvpn-gui.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 6080
+Name     : FortiSettings.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6084
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6108
+Name     : armsvc.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6128
+Name     : CompanionService.WinService.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6136
+Name     : DCIService.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6152
+Name     : sqlwriter.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6168
+Name     : MsMpEng.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6196
+Name     : MpDefenderCoreService.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6228
+Name     : mongod.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6236
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6312
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6516
+Name     : taskhostw.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 6532
+Name     : msedgewebview2.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 6608
+Name     : ExpressVPNNotificationService.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 6632
+Name     : expressvpnd.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6780
+Name     : conhost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 6932
+Name     : rlm.foundry.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 7036
+Name     : NVIDIA Share.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 7132
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 7784
+Name     : SynTPEnh.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 7932
+Name     : SearchHost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 8312
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 9004
+Name     : OmenCommandCenterBackground.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 9088
+Name     : MicrosoftStartFeedProvider.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 9128
+Name     : wlanext.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 9452
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 9516
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 9520
+Name     : svchost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 9532
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 9604
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 9704
+Name     : dasHost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 9720
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 9756
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 9760
+Name     : SDXHelper.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 9780
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 10168
+Name     : FCDBLog.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 10308
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 10436
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 10500
+Name     : HPSystemEventUtilityHost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 10528
+Name     : SysInfoCap.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 10572
+Name     : msedge.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 10796
+Name     : unsecapp.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 10880
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11052
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 11344
+Name     : nvcontainer.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11400
+Name     : sihost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11420
+Name     : nvcontainer.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11448
+Name     : Microsoft.SqlServer.IntegrationServices.WorkerAgentServiceHost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 11460
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 11512
+Name     : svchost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11524
+Name     : svchost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11600
+Name     : svchost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11660
+Name     : svchost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11688
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11716
+Name     : taskhostw.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11764
+Name     : OmenInstallMonitor.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11808
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 11844
+Name     : OverlayHelper.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11888
+Name     : SystemOptimizer.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 11952
+Name     : uihost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 12180
+Name     : RtkAudUService64.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 12196
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 12268
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 12300
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 12688
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 12924
+Name     : CrossDeviceResume.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 12936
+Name     : NVIDIA Web Helper.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 12956
+Name     : NVIDIA Share.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 12996
+Name     : conhost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 13548
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 13640
+Name     : UserOOBEBroker.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 13648
+Name     : SecurityHealthService.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 13724
+Name     : svchost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 13776
+Name     : msedgewebview2.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 13936
+Name     : ctfmon.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 14040
+Name     : msmdsrv.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 14188
+Name     : AppVShNotify.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 14240
+Name     : WmiPrvSE.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 14404
+Name     : FortiTray.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 14508
+Name     : RuntimeBroker.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 14556
+Name     : svchost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 14824
+Name     : powercfg.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 15068
+Name     : SecurityHealthSystray.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 15092
+Name     : ShellExperienceHost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 15160
+Name     : HPMediaNetwork.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 15336
+Name     : WidgetBoard.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 15636
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 15796
+Name     : fdlauncher.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 15856
+Name     : DesktopExtension.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 16352
+Name     : msedge.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 16576
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 16596
+Name     : Microsoft.SqlServer.IntegrationServices.MasterServiceHost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 16692
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 17028
+Name     : OpenConsole.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 17108
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 17152
+Name     : ApplicationFrameHost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 17292
+Name     : MsDtsSrvr.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 17432
+Name     : sqlservr.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 17664
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 17668
+Name     : nvsphelper64.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 17780
+Name     : nbcode64.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 17924
+Name     : NVIDIA Share.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 18252
+Name     : RtkAudUService64.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 18532
+Name     : conhost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 18700
+Name     : AdobeCollabSync.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 18848
+Name     : AdobeCollabSync.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 18924
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 19280
+Name     : WebCompanion.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 19532
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 19688
+Name     : mpdwsvc.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 19696
+Name     : AMDRSServ.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 19808
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 19888
+Name     : RuntimeBroker.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 19904
+Name     : svchost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 20068
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 20092
+Name     : unsecapp.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 20180
+Name     : conhost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 20240
+Name     : HPSystemEventUtilityBackground.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 20304
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 20444
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 20716
+Name     : CCXProcess.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 20756
+Name     : node.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 20832
+Name     : conhost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 20852
+Name     : WindowsTerminal.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 21284
+Name     : svchost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 21292
+Name     : sqlceip.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 21404
+Name     : WidgetService.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 21420
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 21496
+Name     : HPAudioSwitch.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 21732
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 22016
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 22024
+Name     : pet.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 22104
+Name     : AppActions.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 22188
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 22192
+Name     : CNMNSST2.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 22328
+Name     : AdobeIPCBroker.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 22708
+Name     : sqlceip.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 22784
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 22804
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 22824
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 22928
+Name     : mpdwsvc.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 23360
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 23524
+Name     : dllhost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 23544
+Name     : Launchpad.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 24020
+Name     : FileSyncHelper.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 24384
+Name     : AMDRSSrcExt.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 24512
+Name     : python.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 24924
+Name     : OpenConsole.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 24936
+Name     : msedgewebview2.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 25060
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 25188
+Name     : WmiPrvSE.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 25340
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 26252
+Name     : SnippingTool.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 26452
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 26744
+Name     : conhost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 26812
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 26968
+Name     : msedgewebview2.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 27372
+Name     : OfficeClickToRun.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 27564
+Name     : StartMenuExperienceHost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 27704
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 27872
+Name     : browserhost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 27956
+Name     : SearchIndexer.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 28108
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 28316
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 28368
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 28432
+Name     : msedge.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 28584
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 28844
+Name     : elevation_service.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 29060
+Name     : LockApp.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 29108
+Name     : explorer.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 29252
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 29528
+Name     : ShellHost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 29536
+Name     : msedge.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 30168
+Name     : conhost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 30460
+Name     : powershell.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 30740
+Name     : PhoneExperienceHost.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 30792
+Name     : python.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 30968
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 31076
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+PID      : 31452
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 32352
+Name     : OneDrive.Sync.Service.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 32660
+Name     : RuntimeBroker.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 33268
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 33684
+Name     : msedge.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 33800
+Name     : Code.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 34600
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 34668
+Name     : chrome.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 34876
+Name     : cmd.exe
+Username : LAPTOP-1Q4JPRGU\Ajit
+----------------------------------------------------------------------
+PID      : 35360
+Name     : svchost.exe
+Username : None
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+END OF PROCESS INFORMATION REPORT
+----------------------------------------------------------------------
