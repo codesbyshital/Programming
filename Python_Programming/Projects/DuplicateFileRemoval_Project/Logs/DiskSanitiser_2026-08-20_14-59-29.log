@@ -1,0 +1,88 @@
+2026-08-20 14:59:29,986 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:29,987 : INFO : Automated Disk cleaning Started
+2026-08-20 14:59:29,987 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:29,987 : INFO : Directory validation successful: C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 14:59:29,987 : INFO : Scheduler started with interval: 5 minutes
+2026-08-20 14:59:29,987 : INFO : Scheduler started with interval:
+2026-08-20 14:59:29,987 : INFO : Disk sanitisation started for: C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 14:59:29,988 : INFO : Total files scanned: 5
+2026-08-20 14:59:29,989 : INFO : Duplicate file deleted: C:\MarvellousSystem\Python\Assignment\Assignment33\Test\CalculateChecksumX - Copy - Copy.py
+2026-08-20 14:59:29,989 : INFO : Duplicate file deleted: C:\MarvellousSystem\Python\Assignment\Assignment33\Test\CalculateChecksumFinal.py
+2026-08-20 14:59:29,989 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:29,989 : INFO : DISK CLEANING REPORT
+2026-08-20 14:59:29,989 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:29,989 : INFO : Directory                : C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 14:59:29,989 : INFO : Total Files Scanned      : 5
+2026-08-20 14:59:29,989 : INFO : Duplicate Files Found    : 2
+2026-08-20 14:59:29,989 : INFO : Total Files Deleted      : 2
+2026-08-20 14:59:29,989 : INFO : Disk Space Saved         : 0.00 MB
+2026-08-20 14:59:29,989 : INFO : Execution Time           : 0.0 seconds
+2026-08-20 14:59:29,989 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:30,010 : INFO : Log file attached successfully: DiskSanitiser_2026-08-20_14-59-29.log
+2026-08-20 14:59:33,679 : INFO : Email sent successfully to: smurumkar21@gmail.com
+2026-08-20 14:59:33,682 : INFO : Log file sent through email successfully.
+2026-08-20 14:59:38,684 : INFO : Scheduler started with interval:
+2026-08-20 14:59:38,684 : INFO : Disk sanitisation started for: C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 14:59:38,685 : INFO : Total files scanned: 3
+2026-08-20 14:59:38,685 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:38,685 : INFO : DISK CLEANING REPORT
+2026-08-20 14:59:38,685 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:38,685 : INFO : Directory                : C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 14:59:38,685 : INFO : Total Files Scanned      : 3
+2026-08-20 14:59:38,685 : INFO : Duplicate Files Found    : 0
+2026-08-20 14:59:38,685 : INFO : Total Files Deleted      : 0
+2026-08-20 14:59:38,685 : INFO : Disk Space Saved         : 0.00 MB
+2026-08-20 14:59:38,685 : INFO : Execution Time           : 0.0 seconds
+2026-08-20 14:59:38,685 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:38,693 : INFO : Log file attached successfully: DiskSanitiser_2026-08-20_14-59-29.log
+2026-08-20 14:59:41,912 : INFO : Email sent successfully to: smurumkar21@gmail.com
+2026-08-20 14:59:41,912 : INFO : Log file sent through email successfully.
+2026-08-20 14:59:46,914 : INFO : Scheduler started with interval:
+2026-08-20 14:59:46,914 : INFO : Disk sanitisation started for: C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 14:59:46,915 : INFO : Total files scanned: 3
+2026-08-20 14:59:46,915 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:46,915 : INFO : DISK CLEANING REPORT
+2026-08-20 14:59:46,915 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:46,915 : INFO : Directory                : C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 14:59:46,915 : INFO : Total Files Scanned      : 3
+2026-08-20 14:59:46,915 : INFO : Duplicate Files Found    : 0
+2026-08-20 14:59:46,915 : INFO : Total Files Deleted      : 0
+2026-08-20 14:59:46,915 : INFO : Disk Space Saved         : 0.00 MB
+2026-08-20 14:59:46,915 : INFO : Execution Time           : 0.0 seconds
+2026-08-20 14:59:46,915 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:46,941 : INFO : Log file attached successfully: DiskSanitiser_2026-08-20_14-59-29.log
+2026-08-20 14:59:50,243 : INFO : Email sent successfully to: smurumkar21@gmail.com
+2026-08-20 14:59:50,243 : INFO : Log file sent through email successfully.
+2026-08-20 14:59:55,246 : INFO : Scheduler started with interval:
+2026-08-20 14:59:55,246 : INFO : Disk sanitisation started for: C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 14:59:55,247 : INFO : Total files scanned: 3
+2026-08-20 14:59:55,247 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:55,247 : INFO : DISK CLEANING REPORT
+2026-08-20 14:59:55,247 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:55,247 : INFO : Directory                : C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 14:59:55,247 : INFO : Total Files Scanned      : 3
+2026-08-20 14:59:55,247 : INFO : Duplicate Files Found    : 0
+2026-08-20 14:59:55,247 : INFO : Total Files Deleted      : 0
+2026-08-20 14:59:55,247 : INFO : Disk Space Saved         : 0.00 MB
+2026-08-20 14:59:55,247 : INFO : Execution Time           : 0.0 seconds
+2026-08-20 14:59:55,247 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:59:55,263 : INFO : Log file attached successfully: DiskSanitiser_2026-08-20_14-59-29.log
+2026-08-20 14:59:58,216 : INFO : Email sent successfully to: smurumkar21@gmail.com
+2026-08-20 14:59:58,216 : INFO : Log file sent through email successfully.
+2026-08-20 15:00:03,218 : INFO : Scheduler started with interval:
+2026-08-20 15:00:03,218 : INFO : Disk sanitisation started for: C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 15:00:03,219 : INFO : Total files scanned: 3
+2026-08-20 15:00:03,219 : INFO : ----------------------------------------------------------------------
+2026-08-20 15:00:03,219 : INFO : DISK CLEANING REPORT
+2026-08-20 15:00:03,219 : INFO : ----------------------------------------------------------------------
+2026-08-20 15:00:03,219 : INFO : Directory                : C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 15:00:03,219 : INFO : Total Files Scanned      : 3
+2026-08-20 15:00:03,219 : INFO : Duplicate Files Found    : 0
+2026-08-20 15:00:03,219 : INFO : Total Files Deleted      : 0
+2026-08-20 15:00:03,219 : INFO : Disk Space Saved         : 0.00 MB
+2026-08-20 15:00:03,219 : INFO : Execution Time           : 0.0 seconds
+2026-08-20 15:00:03,219 : INFO : ----------------------------------------------------------------------
+2026-08-20 15:00:03,233 : INFO : Log file attached successfully: DiskSanitiser_2026-08-20_14-59-29.log
+2026-08-20 15:00:06,603 : INFO : Email sent successfully to: smurumkar21@gmail.com
+2026-08-20 15:00:06,603 : INFO : Log file sent through email successfully.
+2026-08-20 15:00:06,880 : INFO : Disk Sanitiser stopped by user.

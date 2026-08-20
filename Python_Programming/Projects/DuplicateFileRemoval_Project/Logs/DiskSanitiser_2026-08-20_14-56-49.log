@@ -1,0 +1,8 @@
+2026-08-20 14:56:49,662 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:56:49,662 : INFO : Automated Disk cleaning Started
+2026-08-20 14:56:49,662 : INFO : ----------------------------------------------------------------------
+2026-08-20 14:56:49,662 : INFO : Directory validation successful: C:\MarvellousSystem\Python\Assignment\Assignment33\Test
+2026-08-20 14:56:49,663 : INFO : Scheduler started with interval: 5 minutes
+2026-08-20 14:56:49,663 : ERROR : Error in scheduled task: name 'TimeInterval' is not defined
+2026-08-20 14:56:54,664 : ERROR : Error in scheduled task: name 'TimeInterval' is not defined
+2026-08-20 14:56:58,734 : INFO : Disk Sanitiser stopped by user.
