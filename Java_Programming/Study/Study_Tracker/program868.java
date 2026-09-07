@@ -1,0 +1,328 @@
+/*
+    Project :    Study Tracker : 
+    java collections:
+    ArrayList : to store info of students ( inbuilt linked list of java)   : its generic 
+    String elemnets
+
+    // getter setter methods
+
+    SQL : simulate like sql queries..  : object.add()
+    remove  : take subject name : compare subject name & remove it
+
+    seperate function for queries  : select * from , insert into , update , delete
+
+    added SummarybySubject
+
+ */ 
+
+import java.io.*;
+import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+import javax.lang.model.util.ElementScanner14;
+import javax.xml.crypto.Data;
+
+
+class StudyLog  
+{
+   private LocalDate Date;
+   private String Subject;
+   private double Duration;
+   private String Description;
+
+   public StudyLog(LocalDate a, String b, double c, String d)
+   {
+      this.Date = a;
+      this.Subject = b;
+      this.Duration = c;
+      this.Description = d;
+   }
+   
+   public String toString()
+   {
+      return Date + " | " + Subject + " | " + Duration + " | " + Description;
+   }
+   public LocalDate getDate()
+   {
+      return this.Date;
+   }
+   public String getSubject()
+   {
+      return this.Subject;
+   }
+   public double getDuration()
+   {
+      return this.Duration;
+   }
+   public String getDescription()
+   {
+      return this.Description;
+   }
+}
+
+class StudyTracker
+{
+   public ArrayList <StudyLog>Database;
+
+   public StudyTracker()
+   {
+      Database = new ArrayList<StudyLog>();
+   }
+
+   public void InsertLog()
+   {
+      Scanner sobj = new Scanner(System.in);
+      System.out.println("--------------------------------------------");
+      System.out.println("-------Enter the details of your study------");
+      System.out.println("--------------------------------------------");
+
+      LocalDate lobj = LocalDate.now();
+
+      System.out.println("We are entering the entering the date as : "+lobj);
+
+      System.out.println("Enter the name of Subject like C/C++/Java etc : ");
+      String sub = sobj.nextLine();
+      
+      System.out.println("Provide the description of your study : ");
+      String desc = sobj.nextLine();
+      
+      System.out.println("Enter the time period of your study : ");
+      double dur = sobj.nextDouble();
+
+      StudyLog studyobj = new StudyLog(lobj, sub, dur, desc);
+
+      Database.add(studyobj);
+
+      System.out.println("Study log is inserted successfully");
+   }
+
+   public void DisplayLog()
+    {
+      System.out.println("--------------------------------------------");
+
+         // Database is empty....
+      if(Database.isEmpty())
+      {
+         System.out.println("Nothing to Display as Database is Empty.");
+         System.out.println("--------------------------------------------");
+         return;
+
+      }
+
+      System.out.println("------Log Report of Study Tracker---------.");
+
+      for (StudyLog s : Database)
+      {
+         System.out.println(s);
+      }
+
+      System.out.println("--------------------------------------------");
+
+    }
+
+    public void ExportToCSV()
+    {
+      Scanner sobj = new Scanner(System.in);
+
+      System.out.println("Enter the name that you want to create for CSV file");
+      String FileName = sobj.nextLine();
+
+      System.out.println("--------------------------------------------");
+
+         // Database is empty....
+      if(Database.isEmpty())
+      {
+         System.out.println("Nothing to Export- Database is Empty.");
+         System.out.println("--------------------------------------------");
+         return;
+
+      }
+
+      try(FileWriter fwobj = new FileWriter(FileName))
+      {
+         fwobj.write("Date,Subject,Duration of Study,Description of Study\n");
+
+         for(StudyLog s : Database)
+         {
+            fwobj.write(s.getDate()+" "+
+            s.getSubject()+","+
+            s.getDuration()+","+
+            s.getDescription()+"\n");
+         }
+
+         System.out.println("Data gets exported to CSV successfully...");
+
+         System.out.println("--------------------------------------------");
+
+
+      }
+      catch(IOException iobj)
+      {
+         System.out.println(iobj);
+      }
+
+      catch(Exception eobj)
+      {
+         System.out.println(eobj);
+
+      }
+
+
+
+    }
+
+    public void SummaryByDate()   // datewise total study hours 
+    {
+      System.out.println("--------------------------------------------");
+      System.out.println("-----Summary by Date from study tracker----");
+      System.out.println("--------------------------------------------");
+
+      TreeMap <LocalDate, Double> tobj = new TreeMap<LocalDate, Double>();
+
+      LocalDate lobj = null;
+
+      double d = 0.0;
+      double old = 0.0;
+
+      for(StudyLog s : Database)
+      {
+         lobj = s.getDate();
+         d = s.getDuration();
+
+         if(tobj.containsKey(lobj))
+         {
+            old = tobj.get(lobj);
+            tobj.put(lobj,d+old);
+         }
+         else
+         {
+            tobj.put(lobj,d);
+         }
+      } // end of for
+
+      // Display the details as per the date : toital study hours
+
+      for(LocalDate l : tobj.keySet())    // get keys of local date
+      {
+         System.out.println("Date : "+l+" Total Study Duration : "+tobj.get(l));    
+      }
+
+      System.out.println("--------------------------------------------");
+        
+    }
+
+   //-------------------------------------------------Subjectwise total hours
+
+    public void SummaryBySubject()
+    {
+      System.out.println("--------------------------------------------");
+      System.out.println("-----Summary by Subject from study tracker----");
+      System.out.println("--------------------------------------------");
+
+      TreeMap <String, Double> tobj = new TreeMap<String, Double>();
+
+      String sobj = null;
+
+      double d = 0.0;
+      double old = 0.0;
+
+      for(StudyLog s : Database)
+      {
+         sobj = s.getSubject();
+         d = s.getDuration();
+
+         if(tobj.containsKey(sobj))
+         {
+            old = tobj.get(sobj);
+            tobj.put(sobj,d+old);
+         }
+         else
+         {
+            tobj.put(sobj,d);
+         }
+      } // end of for
+
+      // Display the details as per the Subject : total study hours
+
+      for(String str : tobj.keySet())    // get keys of local date
+      {
+         System.out.println("Subject : "+str+" Total Study Duration : "+tobj.get(str));    
+      }
+
+      System.out.println("--------------------------------------------");
+              
+    }
+
+
+}
+
+class program868
+{
+          public static void main(String[] args)
+   {
+      int iChoice = 0;
+      StudyTracker stobj = new StudyTracker();
+      Scanner sobj = new Scanner(System.in);
+      
+      System.out.println("--------------------------------------------");
+      System.out.println("-----Welcome to Marvellous Study tracker----");
+      System.out.println("--------------------------------------------");
+      
+      do
+      {
+         System.out.println("--------------------------------------------");
+         System.out.println("Please select appropriate option");
+         System.out.println("--------------------------------------------");
+
+         System.out.println("1 : Insert New Study Log");
+         System.out.println("2 : View all Study Logs");
+         System.out.println("3 : Export Study Log to CSV");
+         System.out.println("4 : Summary of Study Log by Date");
+         System.out.println("5 : Summary of Stydy Log by Subject");
+         System.out.println("6 : Exit");
+         
+         System.out.println("--------------------------------------------");
+
+         iChoice = sobj.nextInt();
+         
+         switch (iChoice) {
+            case 1:           //Insert new log
+               stobj.InsertLog();
+               break;
+
+            case 2:           //View all study logs
+               stobj.DisplayLog();
+               break;
+            
+            case 3:           //Export to CSV
+               stobj.ExportToCSV();
+               break;
+
+            case 4:           //Summary by Date
+               stobj.SummaryByDate();
+               break;
+
+            case 5:           //Summary by subject
+               stobj.SummaryBySubject();
+               break;
+         
+            case 6:           //Terminate the project
+               break;
+               default:
+               System.out.println("Please enter valid option");
+               break;
+         }
+      }
+      while(iChoice != 6);
+
+      System.out.println("--------------------------------------------");
+      System.out.println("------Thankyou for using Stydy Tracker------");
+      System.out.println("--------------------------------------------");
+      
+   }        //End of main
+
+}           //End of class
+  
+  
