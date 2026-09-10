@@ -1,0 +1,28 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import StandardScaler
+from sklearn.cluster import KMeans
+
+def main():
+
+    #step 1 : load Data
+
+    df = pd.read_csv("Mall Customers.csv")
+
+    print("Dataset loaded with values")
+    print(df.head())
+
+    print("Missing values :")
+    print(df.isnull().sum())
+
+    #step 2:  feature selection   no lables
+
+    X = df[["AnnualIncome","SpendingScore"]]
+
+    
+
+
+        
+    
+if __name__ == "__main__":
+    main()
