@@ -1,0 +1,28 @@
+# Multiple Linear Regression
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import root_mean_squared_error, r2_score
+
+def MarvellousRegression(DataPath):
+    Border = "-"*70
+    # Load data
+    print(Border)
+    print("Step 1: Load  the Data")
+    print(Border)
+
+    df = pd.read_csv(DataPath)
+    print(df.head)
+
+
+
+def main():
+    MarvellousRegression("Advertising.csv")
+    
+
+if __name__ == "__main__":
+    main()
