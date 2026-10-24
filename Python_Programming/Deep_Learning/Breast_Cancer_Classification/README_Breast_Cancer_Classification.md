@@ -141,7 +141,7 @@ Python_Programming/Deep_Learning/Breast_Cancer_Classification/breast_cancer_dash
 
 Ensure the CSV and `requirements.txt` are committed to the same project folder. Resolve the CSV path relative to the Python file (for example, with `Path(__file__).resolve().parent`) so the app can locate it when deployed.
 
-**Live Demo:** Add your deployed Streamlit URL here after deployment.
+**Live Demo:** [Add your deployed Streamlit URL here after deployment.](https://programming-g7ncf56p4ydt9q89xopju7.streamlit.app/)
 
 ## Model Evaluation Notes
 
